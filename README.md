@@ -1,1 +1,1 @@
-# MO443
+# Trabalho 3 de Introdução ao Processamento de Imagem Digital MO443
