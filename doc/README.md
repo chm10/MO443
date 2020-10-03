@@ -43,15 +43,10 @@ pip install -r requirements.txt
 pip install -e extra_lib/
 `````
 
-#### Exemplo para rodar um programa
-`````powershell
-python main.py
-`````
-
 #### Exempo para abrir um notebook
 
 `````powershell
-jupyter notebook
+jupyter-lab
 `````
 
 Lembre-se: Vá até a pasta do projeto antes de rodar os comandos no Terminal do Anaconda
