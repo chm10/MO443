@@ -13,3 +13,5 @@ Para executar o código do Colab. Visualize o notebook no Github. Logo acima do 
 ## Projeto 1 -  [**[Link](https://github.com/chm10/MO443/tree/master/projeto1)**]
 
 ## Projeto 2 -  [**[Link](https://github.com/chm10/MO443/tree/master/projeto2)**]
+
+## Projeto 3 -  [**[Link](https://github.com/chm10/MO443/tree/master/projeto3)**]
